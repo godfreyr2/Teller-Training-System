@@ -1,0 +1,118 @@
+EJH615,EARL JR. HUFF,456 ROWAN ST GLASSBORO N.J. 08123,123-456-7890,Checking,49803,1947585.70,Savings,25774,5959.94
+MAG247,MEGHAN ANN GODFREY,123 MAIN ST. PITMAN N.J.08362,856-237-6509,Growth,67313,804.66,Checking,18703,.00
+CBM561,COOKIE BLUE MONSTER,456 SESAME ST. PHILADELPHIA P.A.,456-789-1236,Savings,58342,6025.36,Checking,31380,25253.23,Growth,28429,513.74
+BTB521,BOB THE BUILDER,123 SEASHORE LN. SUNNYLAND N.J.,856-867-5309,Checking,30630,551.99,Savings,87463,3036.17,Checking,98808,423.35
+JPS316,JOHN PAUL SMITH,123 MAIN ST SPRINGFIELD NJ,789-456-7894,Checking,73349,4499.55
+
+2016-04-25 22:54:30.009,Growth account,  Account#: 67313,  Deposit of $500.00
+2016-04-25 22:55:18.834,Checking account,  Account#: 80468,  Deposit of $5000.00
+2016-04-25 22:56:15.559,FROM: Checking account, Account#: 80468,  Transfer of $500.00 To: Savings account, Account#: 50841
+2016-04-25 23:06:32.495,Checking account,  Account#: 49803,  Deposit of $2000000.00
+2016-04-25 23:07:52.025,Savings account,  Account#: 25774,  Deposit of $500.00
+2016-04-25 23:09:47.108,Checking account,  Account#: 49803,  Cashier Check of $10000.00, To the payee: EARL'S BEST FRIEND
+2016-04-25 23:29:42.311,Growth account,  Account#: 67313,  Deposit of $200.50
+2016-04-25 23:35:48.781,Savings account,  Account#: 50841,  Deposit of $535.67
+2016-04-25 23:53:45.692,Checking account,  Account#: 30630,  Deposit of $123.76
+2016-04-25 23:54:48.997,Savings account,  Account#: 87463,  Deposit of $3354.29
+2016-04-25 23:56:30.621,Checking account,  Account#: 80468,  Withdraw of $555.45
+2016-04-25 23:58:21.804,Checking account,  Account#: 80468,  Money Order of $100.00
+2016-04-27 19:04:16.810,Growth account,  Account#: 67313,  Growth of $14.01, old balance: $700.50, new balance: $714.51
+2016-04-27 19:08:30.007,Growth account,  Account#: 67313,  Growth of $14.29, old balance: $714.51, new balance: $728.80
+2016-05-02 00:41:49.505,Checking account,  Account#: 98808,  Deposit of $5554.23, Old balance: $.00,  Your new balance: $5554.23
+2016-05-02 00:44:41.556,Growth account,  Account#: 67313,  Growth of $14.58, old balance: $728.80, new balance: $743.38
+2016-05-02 00:48:38.777,Savings account,  Account#: 58342,  Deposit of $6025.36, Old balance: $.00,  Your new balance: $6025.36
+2016-05-02 00:49:42.270,Checking account,  Account#: 31380,  Deposit of $25253.23, Old balance: $.00,  Your new balance: $25253.23
+2016-05-02 00:50:32.868,Growth account,  Account#: 28429,  Deposit of $440.69, Old balance: $.00,  Your new balance: $440.69
+2016-05-02 00:53:26.301,FROM: Checking account, Account#: 49803,  Transfer of $68256.32,   Old Balance: $1990000.00   New Balance: $1921743.68,  To: Savings account, Account#: 25774,  Old Balance: $500.00,  New Balance: $68756.32
+2016-05-02 00:58:31.921,FROM: Checking account, Account#: 49803,  Transfer of $9800.47,   Old Balance: $1990000.00   New Balance: $1980199.53,  To: Savings account, Account#: 25774,  Old Balance: $500.00,  New Balance: $10300.47
+2016-05-02 01:00:14.285,Checking account,  Account#: 49803,  Deposit of $99.56, Old balance: $1990000.00,  Your new balance: $1990099.56
+2016-05-02 01:42:17.279,FROM: Checking account, Account#: 49803,  Transfer of $4458.56,   Old Balance: $1990099.56   New Balance: $1985641.00,  To: Savings account, Account#: 25774,  Old Balance: $500.00,  New Balance: $4958.56
+2016-05-02 01:44:38.958,Growth account,  Account#: 28429,  Growth of $8.81, old balance: $440.69, new balance: $449.50
+2016-05-02 13:36:33.212,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985641.00,  Your new balance: $1985541.00
+2016-05-02 13:51:56.422,Checking account,  Account#: 98808,  Withdraw of $5000.00, Old balance: $5554.23,  Your new balance: $554.23
+2016-05-02 14:11:02.255,Checking account,  Account#: 98808,  Withdraw of $500.00, Old balance: $554.23,  Your new balance: $54.23
+2016-05-02 14:20:10.920,Checking account,  Account#: 98808,  Withdraw of $50.00, Old balance: $54.23,  Your new balance: $4.23
+2016-05-02 14:22:05.699,Checking account,  Account#: 98808,  Withdraw of $-5.00, Old balance: $4.23,  Your new balance: $9.23
+2016-05-02 15:09:20.063,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985541.00,  Your new balance: $1985441.00
+2016-05-02 15:09:28.765,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985441.00,  Your new balance: $1985341.00
+2016-05-02 15:10:53.318,FROM: Checking account, Account#: 98808,  Transfer of $5.00,   Old Balance: $9.23   New Balance: $4.23,  To: Savings account, Account#: 87463,  Old Balance: $3354.29,  New Balance: $3359.29
+2016-05-02 16:21:19.286,Growth account,  Account#: 28429,  Growth of $8.99, old balance: $449.50, new balance: $458.49
+2016-05-02 16:22:51.015,FROM: Savings account, Account#: 87463,  Transfer of $888.88,   Old Balance: $3359.29   New Balance: $2470.41,  To: Checking account, Account#: 98808,  Old Balance: $4.23,  New Balance: $893.11
+2016-05-02 17:08:58.414,Checking account,  Account#: 30630, Deposit of $335.25, Old balance: $123.76, Your new balance: $459.01
+2016-05-02 17:19:21.386,Checking account,  Account#: 98808,  Withdraw of $89.00, Old balance: $893.11,  Your new balance: $804.11
+2016-05-02 17:21:49.520,Checking account,  Account#: 98808, Deposit  of $1232.65, Old balance: $804.11, Your new balance: $2036.76
+2016-05-02 17:39:55.932,FROM: Savings account, Account#: 87463,  Transfer of $548.23,   Old Balance: $2470.41   New Balance: $1922.18,  To: Checking account, Account#: 30630,  Old Balance: $459.01,  New Balance: $1007.24
+2016-05-02 17:44:27.849,FROM: Checking account, Account#: 98808,  Transfer of $888.33,   Old Balance: $2036.76   New Balance: $1148.43,  To: Savings account, Account#: 87463,  Old Balance: $1922.18,  New Balance: $2810.51
+2016-05-02 17:47:11.331,FROM: Checking account, Account#: 30630,  Transfer of $55.25,   Old Balance: $1007.24   New Balance: $951.99,  To: Growth account, Account#: 28429,  Old Balance: $458.49,  New Balance: $513.74
+2016-05-02 17:49:02.857,FROM: Checking account, Account#: 98808,  Transfer of $25.66,   Old Balance: $1148.43   New Balance: $1122.77,  To: Savings account, Account#: 87463,  Old Balance: $2810.51,  New Balance: $2836.17
+2016-05-02 17:50:30.312,FROM: Checking account, Account#: 98808,  Transfer of $200.00,   Old Balance: $1122.77   New Balance: $922.77,  To: Savings account, Account#: 87463,  Old Balance: $2836.17,  New Balance: $3036.17
+2016-05-02 18:09:57.365,Checking account,  Account#: 30630, Money Order of $100.00,  Old Balance: $951.99,  New Balance: $851.99
+2016-05-02 18:33:22.203,Checking account,  Account#: 30630, Money Order of $100.00,  Old Balance: $851.99,  New Balance: $751.99
+2016-05-02 18:42:33.118,Checking account,  Account#: 49803,  Cashier Check of $250.56, To the payee: RYAN MICHAEL GODFREY,  Old Balance: $1985341.00,  New Balance: $1985090.44
+2016-05-02 18:44:48.045,Checking account,  Account#: 49803,  Cashier Check of $100.00, To the payee: RYAN GODFREY,  Old Balance: $1985090.44,  New Balance: $1984990.44
+2016-05-02 18:57:30.701,Growth account,  Account#: 67313,  Growth of $14.87, old balance: $743.38, new balance: $758.25
+2016-05-02 18:58:24.309,Growth account,  Account#: 67313,  Growth of $15.16, old balance: $758.25, new balance: $773.41
+2016-05-02 20:42:40.159,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $922.77,  Your new balance: $822.77
+2016-05-02 21:13:39.090,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $822.77,  Your new balance: $722.77
+2016-05-03 00:42:24.271,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $722.77, Your new balance: $822.77
+2016-05-03 00:49:09.025,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $822.77, Your new balance: $922.77
+2016-05-03 00:49:37.959,Checking account,  Account#: 30630, Deposit  of $100.00, Old balance: $751.99, Your new balance: $851.99
+2016-05-03 00:51:47.200,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $922.77, Your new balance: $1022.77
+2016-05-03 01:12:25.029,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $1022.77, Your new balance: $1122.77
+2016-05-03 01:17:25.161,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $1122.77, Your new balance: $1222.77
+2016-05-03 01:18:00.983,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $1222.77, Your new balance: $1322.77
+2016-05-03 09:27:49.764,Checking account,  Account#: 98808, Deposit  of $100.58, Old balance: $1322.77, Your new balance: $1423.35
+2016-05-03 09:45:44.669,Checking account,  Account#: 30630,  Withdraw of $100.00, Old balance: $851.99,  Your new balance: $751.99
+2016-05-03 09:46:43.969,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $1423.35,  Your new balance: $1323.35
+2016-05-03 09:47:05.818,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $1323.35,  Your new balance: $1223.35
+2016-05-03 09:47:18.735,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $1223.35,  Your new balance: $1123.35
+2016-05-03 09:52:09.927,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $1123.35,  Your new balance: $1023.35
+2016-05-03 09:52:21.882,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $1023.35,  Your new balance: $923.35
+2016-05-03 10:01:08.300,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $923.35,  Your new balance: $823.35
+2016-05-03 10:10:56.360,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $823.35,  Your new balance: $723.35
+2016-05-03 11:00:22.318,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1984990.44, Your new balance: $1985090.44
+2016-05-03 11:00:46.577,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985090.44, Your new balance: $1985190.44
+2016-05-03 11:01:15.931,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985190.44,  Your new balance: $1985090.44
+2016-05-03 11:19:46.249,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985090.44, Your new balance: $1985190.44
+2016-05-03 11:23:29.773,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985190.44, Your new balance: $1985290.44
+2016-05-03 11:25:43.023,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985290.44, Your new balance: $1985390.44
+2016-05-03 11:28:56.294,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985390.44, Your new balance: $1985490.44
+2016-05-03 11:37:53.217,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985490.44, Your new balance: $1985590.44
+2016-05-03 11:39:27.192,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985590.44, Your new balance: $1985690.44
+2016-05-03 11:43:14.438,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985690.44,  Your new balance: $1985590.44
+2016-05-03 11:45:48.968,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985590.44,  Your new balance: $1985490.44
+2016-05-03 14:25:52.594,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $723.35,  Your new balance: $623.35
+2016-05-03 14:25:56.280,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $623.35,  Your new balance: $523.35
+2016-05-03 14:25:58.572,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $523.35,  Your new balance: $423.35
+2016-05-03 14:26:46.290,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985490.44,  Your new balance: $1985390.44
+2016-05-03 14:26:47.593,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985390.44,  Your new balance: $1985290.44
+2016-05-03 14:26:49.411,Checking account,  Account#: 49803,  Withdraw of $100.00, Old balance: $1985290.44,  Your new balance: $1985190.44
+2016-05-03 14:28:08.069,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985190.44, Your new balance: $1985290.44
+2016-05-03 14:28:09.381,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985290.44, Your new balance: $1985390.44
+2016-05-03 14:28:10.267,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985390.44, Your new balance: $1985490.44
+2016-05-03 14:28:11.353,Checking account,  Account#: 49803, Deposit  of $100.00, Old balance: $1985490.44, Your new balance: $1985590.44
+2016-05-03 14:28:40.495,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $423.35, Your new balance: $523.35
+2016-05-03 14:28:52.634,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $523.35, Your new balance: $623.35
+2016-05-03 14:28:54.304,Checking account,  Account#: 98808, Deposit  of $100.00, Old balance: $623.35, Your new balance: $723.35
+2016-05-03 15:02:22.366,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $723.35,  Your new balance: $623.35
+2016-05-03 15:02:28.884,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $623.35,  Your new balance: $523.35
+2016-05-03 15:03:47.047,Checking account,  Account#: 98808,  Withdraw of $100.00, Old balance: $523.35,  Your new balance: $423.35
+2016-05-03 15:04:27.073,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1985590.44,  Your new balance: $1980589.96
+2016-05-03 15:04:28.668,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1980589.96,  Your new balance: $1975589.48
+2016-05-03 15:04:29.585,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1975589.48,  Your new balance: $1970589.00
+2016-05-03 15:04:30.370,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1970589.00,  Your new balance: $1965588.52
+2016-05-03 15:04:43.162,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1965588.52,  Your new balance: $1960588.04
+2016-05-03 15:04:44.473,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1960588.04,  Your new balance: $1955587.56
+2016-05-03 15:04:45.278,Checking account,  Account#: 49803,  Withdraw of $5000.48, Old balance: $1955587.56,  Your new balance: $1950587.08
+2016-05-03 15:11:11.376,FROM: Checking account, Account#: 49803,  Transfer of $500.69,   Old Balance: $1950587.08   New Balance: $1950086.39,  To: Savings account, Account#: 25774,  Old Balance: $4958.56,  New Balance: $5459.25
+2016-05-03 15:11:31.746,FROM: Checking account, Account#: 49803,  Transfer of $500.69,   Old Balance: $1950086.39   New Balance: $1949585.70,  To: Savings account, Account#: 25774,  Old Balance: $5459.25,  New Balance: $5959.94
+2016-05-03 15:32:03.066,Checking account,  Account#: 30630, Money Order of $100.00,  Old Balance: $751.99,  New Balance: $651.99
+2016-05-03 15:32:17.728,Checking account,  Account#: 30630, Money Order of $100.00,  Old Balance: $651.99,  New Balance: $551.99
+2016-05-03 15:33:22.415,Checking account,  Account#: 49803,  Cashier Check of $500.00, To the payee: RYAN GODFREY,  Old Balance: $1949585.70,  New Balance: $1949085.70
+2016-05-03 15:33:25.407,Checking account,  Account#: 49803,  Cashier Check of $500.00, To the payee: RYAN GODFREY,  Old Balance: $1949085.70,  New Balance: $1948585.70
+2016-05-03 15:33:50.773,Checking account,  Account#: 49803,  Cashier Check of $500.00, To the payee: RYAN GODFREY,  Old Balance: $1948585.70,  New Balance: $1948085.70
+2016-05-03 15:33:53.339,Checking account,  Account#: 49803,  Cashier Check of $500.00, To the payee: RYAN GODFREY,  Old Balance: $1948085.70,  New Balance: $1947585.70
+2016-05-03 15:40:38.907,Growth account,  Account#: 67313,  Growth of $15.47, old balance: $773.41, new balance: $788.88
+2016-05-03 15:40:53.326,Growth account,  Account#: 67313,  Growth of $15.78, old balance: $788.88, new balance: $804.66
+2016-05-03 18:06:00.994,Checking account,  Account#: 73349, Deposit  of $5000.00, Old balance: $.00, Your new balance: $5000.00
+2016-05-03 20:52:29.753,Checking account,  Account#: 73349,  Withdraw of $500.45, Old balance: $5000.00,  Your new balance: $4499.55
